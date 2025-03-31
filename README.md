@@ -5,6 +5,7 @@
 - 🌱🌱 I'm also a research assistant at San Francisco State University for Dr. El Alaoui. We are studying how to use ML/FBA/MM to simulate how
         plants respond to various chemical reactions.
 - 📫 Please reach out to me on [Linkedin](https://www.linkedin.com/in/kpowkitty/) for all collaborations and business inquiries.
+- ✏️ Checkout my [blog](https://kmpow.com) for random adventures and helpful tech guides!
 
 <!---
 kpowkitty/kpowkitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
